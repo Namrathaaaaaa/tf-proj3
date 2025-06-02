@@ -9,7 +9,9 @@ This project demonstrates how to use **Terraform** to provision an **AWS EC2 ins
 
 ## 📸 Demo Screenshot
 
-![Terraform Project Output](assets/screenshot.png)
+![Terraform Project Output]
+<img width="844" alt="Screenshot 2025-06-02 at 9 55 19 AM" src="https://github.com/user-attachments/assets/cbefc25b-61a0-4a2a-bb0c-67aae02c1a3c" />
+
 
 ---
 
